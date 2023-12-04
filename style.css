@@ -1,0 +1,12 @@
+.random-tile {
+    display: flex;
+    margin: 5rem;
+    border-color: black;
+    border-radius: 2rem;
+    border-width: 2px;
+    border-style: solid;
+}
+.tile {
+  width: 100%;
+  padding: 2rem;
+}
